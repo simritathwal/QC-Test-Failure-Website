@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://simritathwal.github.io/QC-Test-Failure-Website" resolutions="1x" timestamp="1565970896840">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="index.css" crc="524680158" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mt-dropzone-uploader.php" crc="3890627517" seo="true" mt="1467217554000"/>
+    <file name="mt-dropzone-remover.php" crc="3841480597" seo="true" mt="1467217554000"/>
+    <file name="mt-dropzone-email.php" crc="181249985" seo="true" mt="1565894506000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u706.php" crc="253109096" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="qc-test-failure-favicon.ico" crc="481883293" ref="index"/>
+    <file name="teknova orange.png" crc="3799920897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meech transparent.png" crc="3795914367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="upload button rollover.svg" crc="334289456" ref="index"/>
+    <file name="upload button rollover_poster_u2216.png" crc="4267285901" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3880751895" seo="true" mt="1565970876443" redirect="true"/>
+</manifest>
